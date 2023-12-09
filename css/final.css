@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,100&family=Sanchez&family=Shadows+Into+Light&display=swap');
+
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+h1{
+    font-family: 'Shadows Into Light', cursive;
+}
+header{
+    font-family: 'Noto Serif', serif;
+}
+
+h2, h4{
+    font-family: 'Sanchez', serif;
+}
+
+button{
+    background-color: rgb(182, 101, 182);
+    padding: 5px;
+    display: inline-block;
+    font-family: 'Sanchez', serif;
+}
+
